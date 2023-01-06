@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a Web Engineer, I love to create rich and beautiful applications
+
+- 🔭 I’m currently working at [Signal AI](https://www.signal-ai.com/)
+- 🌱 I’m currently learning Clojure
+- 💬 Ask me about Food, but really anything you want!
+
 <!--
 **Akallabet/Akallabet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
