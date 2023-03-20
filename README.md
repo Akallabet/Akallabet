@@ -2,7 +2,7 @@
 
 I am a Web Engineer, I love to create rich and beautiful applications
 
-- 🔭 I’m currently working at [Signal AI](https://www.signal-ai.com/)
+- 🔭 I’m currently working at [NearForm]([https://www.signal-ai.com/](https://www.nearform.com))
 - 🌱 I’m currently learning Clojure
 - 💬 Ask me about Food, but really anything you want!
 
