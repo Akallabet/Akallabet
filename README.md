@@ -4,6 +4,7 @@ I am a Web Engineer, I love to create rich and beautiful applications
 
 - 🔭 I’m currently working at [NearForm]([https://www.signal-ai.com/](https://www.nearform.com))
 - 🌱 I’m currently learning Clojure
+- 🌱 I’m also learning touch typing
 - 💬 Ask me about Food, but really anything you want!
 
 <!--
