@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Web Engineer, I love to create rich and beautiful applications
+I am a Web Engineer, I love to create beautiful and performant applications
 
 - 🔭 I’m currently working at [NearForm]([https://www.signal-ai.com/](https://www.nearform.com))
 - 🌱 I’m currently learning Clojure
