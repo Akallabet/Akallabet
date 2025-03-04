@@ -2,7 +2,7 @@
 
 I am a Software Developer who loves to create beautiful and performant applications
 
-- 🔭 I’m currently working at [NearForm]([https://www.signal-ai.com/](https://www.nearform.com)) as Senior Web Engineer
+- 🔭 I’m currently working at [Nala](https://www.nala.com/) as Senior FullStack Engineer
 - 💬 Ask me about Food, but really anything you want!
 
 <!--
